@@ -1,9 +1,6 @@
-theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
-show_downloads: True
-navigation:
-  - title: Home
-    url: /
-  - title: Example
-    url: example
+title: François Goybet
+description: Resume
+author: François Goybet
+url: "https://francois-goybet.github.io"
+baseurl: "" 
+theme: minima 

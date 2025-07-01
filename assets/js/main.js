@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () { new SweetScroll({});
       }
     },
     "color": {
-      "value": "#aaaaaa"
+      "value": "#abcdef"
     },
     "shape": {
       "type": "circle",
@@ -108,4 +108,4 @@ document.addEventListener("DOMContentLoaded", function () { new SweetScroll({});
   },
   "retina_detect": false
 }
-                                                                                             )})
+)})

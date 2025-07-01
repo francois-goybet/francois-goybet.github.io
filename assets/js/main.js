@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () { new SweetScroll({}); particlesJS("particles-js", {
   "particles": {
     "number": {
-      "value": 20,
+      "value": 2,
       "density": {
         "enable": true,
         "value_area": 800

@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () { new SweetScroll({});
       }
     },
     "color": {
-      "value": "#ffffff"
+      "value": "#2c3e50"
     },
     "shape": {
       "type": "circle",

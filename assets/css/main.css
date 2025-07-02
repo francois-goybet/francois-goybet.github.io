@@ -8,7 +8,7 @@
 .education-section {
   background-color: #fff !important; /* fond blanc forcé */
   color: #222 !important; /* texte sombre */
-  padding: 2rem !important;
+  padding: 1rem !important;
   border-radius: 8px !important;
   max-width: 800px !important;
   margin: 2rem auto !important;
@@ -31,7 +31,7 @@
   display: block;
   width: 100%;      /* barre pleine largeur */
   height: 4px;
-  background-color: #007acc;
+  background-color: #39CCCC;
   margin-top: 0.3rem;
   border-radius: 2px;
 }
@@ -71,7 +71,7 @@
 .skills-section {
   background-color: #fff !important;
   color: #222 !important;
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 8px;
   max-width: 800px;
   margin: 2rem auto;
@@ -115,12 +115,12 @@
 }
 
 .project-links a:hover {
-  color: #005b99;
+  color: #39CCCC;
   text-decoration: underline;
 }
 
 #particles-js {
-  background-color: #307696 !important;
+  background-color: #001F3F !important;
 }
 
 .download-link {
@@ -134,8 +134,8 @@
 }
 
 .profile-photo {
-  width: 150px;         
-  height: 150px;
+  width: 300px;         
+  height: 300px;
   border-radius: 50%;  
   object-fit: cover;  
   display: block;

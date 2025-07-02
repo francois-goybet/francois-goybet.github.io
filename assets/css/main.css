@@ -70,45 +70,6 @@
   font-weight: 700;
 }
 
-.skills-section {
-  background-color: #fff !important;
-  color: #222 !important;
-  padding: 1rem;
-  border-radius: 8px;
-  max-width: 800px;
-  margin: 0.5rem auto;
-  font-family: Arial, sans-serif;
-}
-
-.skills-section h2 {
-  text-align: left;
-  margin-bottom: 1rem;
-  font-weight: 700;
-  font-size: 2rem;
-  color: #111;
-  padding-bottom: 0.3rem;
-}
-
-.skills-list {
-  list-style-type: none;
-  padding-left: 0;
-  font-size: 1.1rem;
-  line-height: 1.6;
-}
-
-.skills-list li {
-  margin-bottom: 0.6rem;
-}
-
-.skills-list strong {
-  font-weight: 700;
-}
-
-.project-links {
-  margin-top: 0.5rem;
-  font-size: 1rem;
-}
-
 .project-links a {
   color: #007acc;
   text-decoration: none;

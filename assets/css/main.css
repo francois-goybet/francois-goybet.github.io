@@ -122,3 +122,13 @@
 #particles-js {
   background-color: #307696 !important;
 }
+
+.download-link {
+  color: white !important;     
+  text-decoration: none;         
+}
+
+.download-link:hover {
+  text-decoration: underline;    
+  color: #aad4ff !important;     
+}

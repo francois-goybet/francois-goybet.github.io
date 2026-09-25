@@ -1,13 +1,13 @@
 # Site settings
 title: François Goybet
-description: François Goybet Resume
+description: François Goybet – ML and quantitative research, Visiting Researcher at MIT, MSc Data Science at EPFL
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: François Goybet
-user_description: Looking for internship
-user_title: Data Science and Financial Engineering Student
+user_description: Open to quant, data science and ML roles in Europe from March 2027
+user_title: ML & Quant Research | Visiting Researcher @ MIT | MSc Data Science @ EPFL
 email: francoisgoybet@gmail.com
 github_username:  francois-goybet
 
